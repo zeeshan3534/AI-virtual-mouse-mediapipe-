@@ -3,7 +3,7 @@
 Hand Tracking:
 we are using two module at the backhand 
 # 1. palm detection:
-		it bacically work on full image of the hand and provides the crop image of only palm
+		it bascially work on full image of the hand and provides the crop image of only palm
 # 2. Hand Landmarks:
 	it module find 21 different landmarks on the cropped image send by the palm detection..
  
